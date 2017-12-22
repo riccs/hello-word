@@ -1,2 +1,6 @@
 # hello-word
-Esse é um teste inicial.
+
+Olá, amigos!
+
+Estou aqui fazendo um teste.
+Como funciona esse sistema.
